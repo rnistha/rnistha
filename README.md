@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+### everyones a snake around me but this is different
+![Snake gif](https://github.com/rnistha/rnistha/blob/main/output/github-contribution-grid-snake.gif)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
